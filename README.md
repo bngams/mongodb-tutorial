@@ -7,7 +7,7 @@ mongo "mongodb://cluster0-shard-00-00-jxeqq.mongodb.net:27017,cluster0-shard-00-
 
 MongoDB Compass is a GUI that allows you to interact with your databases. Once you open the GUI, use your database credentials to connect to your DBs.
 
-[Download here](https://www.mongodb.com/download-center?_ga=2.1085937.15138774.1525100686-1997388355.1524597165#compass)
+[Download here](https://www.mongodb.com/try/download/tools)
 
 ## Robomongo [https://robomongo.org/](https://robomongo.org/)
 
